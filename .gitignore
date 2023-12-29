@@ -1,0 +1,14 @@
+# ignore .bmp file
+*.bmp
+
+# ignore .h5 file
+*.h5
+
+# ignore training result file
+testing
+result
+*.csv
+
+# ignore .pyc file
+*.py[cod]
+__pycache__
